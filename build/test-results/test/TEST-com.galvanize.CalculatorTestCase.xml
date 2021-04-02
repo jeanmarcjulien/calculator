@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.galvanize.CalculatorTestCase" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-04-02T21:41:44" hostname="gJean-MarcJulien.local" time="0.009">
+  <properties/>
+  <testcase name="testAddManyNumbers()" classname="com.galvanize.CalculatorTestCase" time="0.005"/>
+  <testcase name="testMultiplyTwoNumbers()" classname="com.galvanize.CalculatorTestCase" time="0.0"/>
+  <testcase name="testAddTwoNumbers()" classname="com.galvanize.CalculatorTestCase" time="0.0"/>
+  <testcase name="testInitializedWith0()" classname="com.galvanize.CalculatorTestCase" time="0.0"/>
+  <testcase name="testMultiplyManyNumbers()" classname="com.galvanize.CalculatorTestCase" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
