@@ -17,7 +17,7 @@ class CalculatorTestCase {
         calculator = new Calculator();
 
         //execution
-        int expected=1;
+        int expected=2;
         int actual = calculator.getCurrentState();
 
         //assertion
