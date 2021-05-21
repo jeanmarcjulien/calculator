@@ -23,7 +23,7 @@ class CalculatorTestCase {
         //assertion
         assertEquals(expected, actual);
 
-        //teardown
+        //teardown comment
     }
 
     @Test
